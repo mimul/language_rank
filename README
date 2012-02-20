@@ -1,0 +1,8 @@
+1. collect data on Github and StackOverflow
+ - run collected_Python/github_language_rank.py 
+ - run collected_Python/stackoverflow_language_rank.py
+ - sample data -> data/
+
+2. using R function we were able to view the Graph
+ - run graph_R/scatterplot_language_rank.R
+
